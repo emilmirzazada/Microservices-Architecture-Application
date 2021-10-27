@@ -1,0 +1,15 @@
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\bin\Debug\netcoreapp3.1\Ordering.Infrastucture.deps.json
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\bin\Debug\netcoreapp3.1\Ordering.Infrastucture.runtimeconfig.json
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\bin\Debug\netcoreapp3.1\Ordering.Infrastucture.runtimeconfig.dev.json
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\bin\Debug\netcoreapp3.1\Ordering.Infrastucture.dll
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\bin\Debug\netcoreapp3.1\Ordering.Infrastucture.pdb
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\bin\Debug\netcoreapp3.1\Ordering.Core.dll
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\bin\Debug\netcoreapp3.1\Ordering.Core.pdb
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.csprojAssemblyReference.cache
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.AssemblyInfoInputs.cache
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.AssemblyInfo.cs
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.csproj.CoreCompileInputs.cache
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.csproj.CopyComplete
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.dll
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.pdb
+E:\MyProjects\McrsrvcsDckr\MicroservicesApp\src\Ordering\Ordering.Infrastucture\obj\Debug\netcoreapp3.1\Ordering.Infrastucture.genruntimeconfig.cache
